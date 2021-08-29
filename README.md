@@ -1,3 +1,48 @@
+## Inspiration
+
+Have you ever tried making beatbox sounds? Let’s try making a beatbox with code and, yes, a banana!
+
+So today I thought of creating something silly but musical.
+
+In this project, we are going to produce cool beats using fruits.
+
+## What it does
+
+By pushing on one banana, the beat goes up and by pushing on another banana the beat goes down that's how you can produce music from fruits through the speaker, but let us understand how this happens?
+
+A speaker is a device by which electrical signals are converted into sounds. In this project, we are using an electrodynamic speaker. We want to play music when the fruit is connected to a pin is pressed. The Micro: bit has to be connected to the speakers or headphones, for the sound to be reproduced.
+
+## How we built it
+
+Components Used
+
+Micro: Bit
+
+Battery Pack
+
+Crocodile Clips
+
+Speaker
+
+Fruits
+
+Connect the one banana to Pin 1 and another banana to pin 2 then connect your speaker chord with 0 and GND pin of the micro: bit.
+
+## Challenges we ran into
+
+we ran into challenges while connecting fruits with the cables.
+
+## Accomplishments that we're proud of
+
+We are proud that we are able to make our fruits sing.
+
+## What we learned
+
+Micro: bit working with sound.
+
+## What's next for The Voice Of Fruits
+
+We will try to create it with more fruits and try to produce more beats.
 
 > Open this page at [https://akshitagupta15june.github.io/the-voice-of-fruits/](https://akshitagupta15june.github.io/the-voice-of-fruits/)
 
@@ -18,14 +63,3 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/akshitagupta15june/the-voice-of-fruits** and click import
 
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/akshitagupta15june/the-voice-of-fruits/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
