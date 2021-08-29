@@ -1,4 +1,4 @@
-<img src="https://github.com/akshitagupta15june/the-voice-of-fruits/blob/master/Images/fruit.jpeg">
+<img src="https://github.com/akshitagupta15june/the-voice-of-fruits/blob/master/Images/fruit.jpeg" width=450 height=350>
 
 ## Inspiration
 
