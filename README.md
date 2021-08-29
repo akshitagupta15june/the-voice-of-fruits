@@ -1,3 +1,5 @@
+<img src="https://github.com/akshitagupta15june/the-voice-of-fruits/blob/master/Images/fruit.jpeg">
+
 ## Inspiration
 
 Have you ever tried making beatbox sounds? Let’s try making a beatbox with code and, yes, a banana!
